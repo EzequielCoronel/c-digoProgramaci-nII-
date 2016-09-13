@@ -3,6 +3,8 @@
 #define CON_MSJ 1
 #define ARCHIVO "datos"
 
+//JORGE AVISAME SI PUDISTE VER ESTE COMENTARIO, ESTOY PROBANDO, NO ME ACUERDO COMO MIERDA SE USABA JAJAJJA
+
 /*COSAS IMPORTANTES DE ESTE PROGRAMA:
     -utilizacion correcta de scanf y de gets.
     -modos de apertura de los archivos.
